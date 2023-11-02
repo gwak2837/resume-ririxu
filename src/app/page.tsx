@@ -173,7 +173,7 @@ export default function Home() {
         </tbody>
       </table>
       <h2 className="my-8 break-before-page text-3xl">
-        영업 경력 <span className="text-base">(2년 3개월)</span>
+        영업 경력 <span className="text-base">(2년 10개월)</span>
       </h2>
       <ul>
         <li>
@@ -185,7 +185,7 @@ export default function Home() {
               rel="noreferrer"
             >
               <b>(주)친구통신</b>
-              <Image src="/image/친구통신.png" alt="tossbank" width="73" height="25" />
+              <Image src="/image/친구통신.png" alt="친구통신" width="73" height="25" />
             </a>
             <div>2021년 11월 7일 ~ 2022년 11월 6일 (12개월)</div>
           </div>
@@ -206,16 +206,11 @@ export default function Home() {
         <div className="my-6 w-full border" />
         <li>
           <div className="my-4 grid grid-cols-2 gap-4">
-            <a
-              href="https://chingu-mobile-kr.imweb.me/"
-              className="flex items-center gap-2"
-              target="_blank"
-              rel="noreferrer"
-            >
+            <a href="https://www.innisfree.com/" className="flex items-center gap-2" target="_blank" rel="noreferrer">
               <b>(주)이니스프리</b>
-              <Image src="/image/Innisfree-logo.svg" alt="tossbank" width="90" height="40" />
+              <Image src="/image/Innisfree-logo.svg" alt="이니스프리" width="90" height="40" />
             </a>
-            <div>2018년 7월 1일 ~ 2019년 9월 30일 (15개월)</div>
+            <div>2021년 1월 1일 ~ 10월 31일 (10개월)</div>
           </div>
           <div className="grid grid-cols-2 gap-4">
             <div>직책: 점원</div>
@@ -235,6 +230,28 @@ export default function Home() {
               고객에게 맞춤형 메이크업 솔루션을 제공함
             </li>
           </ul>
+        </li>
+        <div className="my-6 w-full border" />
+        <li>
+          <div className="my-4 grid grid-cols-2 gap-4">
+            <a
+              href="https://www.musinsa.com/brands/rziozia"
+              className="flex items-center gap-2"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <b>(주)지오지아</b>
+              <Image src="/image/rziozia.png" alt="지오지아" width="89" height="16" />
+            </a>
+            <div>2020년 1월 1월 ~ 12월 31일 (12개월)</div>
+          </div>
+          <div className="grid grid-cols-2 gap-4">
+            <div>직책: 점원</div>
+            <div>부서: 지오지아 SSTS 명동점</div>
+          </div>
+          <div>직위: 정규직</div>
+          <div>역할:</div>
+          <ul></ul>
         </li>
       </ul>
       <h2 className="my-8 text-3xl ">소개</h2>

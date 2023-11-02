@@ -21,7 +21,11 @@ export default function Home() {
               </tr>
               <tr>
                 <td className="border-none p-px">🎓</td>
-                <td className="border-none p-px">중앙대학교 컴퓨터공학부 학사</td>
+                <td className="border-none p-px">
+                  <a href="/pdf/2021-02-15 중앙대학교 학위증.pdf" target="_blank">
+                    중앙대학교 컴퓨터공학부 학사
+                  </a>
+                </td>
               </tr>
               <tr>
                 <td className="border-none p-px">🏠</td>
@@ -94,8 +98,16 @@ export default function Home() {
             <td>
               <b>중앙대학교</b> (서울캠퍼스)
             </td>
-            <td className="text-center">컴퓨터공학부 학사</td>
-            <td className="text-center">2017년 3월 ~ 2021년 2월</td>
+            <td className="text-center">
+              <a href="/pdf/2021-02-15 중앙대학교 학위증.pdf" target="_blank">
+                컴퓨터공학부 학사
+              </a>
+            </td>
+            <td className="text-center">
+              <a href="/pdf/2023-03-13 중앙대학교 졸업증명서.pdf" target="_blank">
+                2017년 3월 ~ 2021년 2월
+              </a>
+            </td>
             <td className="text-center">졸업</td>
           </tr>
           <tr>
@@ -251,7 +263,11 @@ export default function Home() {
           </div>
           <div>직위: 정규직</div>
           <div>역할:</div>
-          <ul></ul>
+          <ul>
+            <li>1. 옷을 정리</li>
+            <li>2. 옷을 판매</li>
+            <li>3. 외국어 번역</li>
+          </ul>
         </li>
       </ul>
       <h2 className="my-8 text-3xl ">소개</h2>

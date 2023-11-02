@@ -91,22 +91,30 @@ export default function Home() {
         </thead>
         <tbody>
           <tr>
-            <td className="font-semibold">중앙대학교 (서울캠퍼스)</td>
-            <td>컴퓨터공학부 학사</td>
+            <td>
+              <b>중앙대학교</b> (서울캠퍼스)
+            </td>
+            <td className="text-center">컴퓨터공학부 학사</td>
             <td className="text-center">2017년 3월 ~ 2021년 2월</td>
-            <td></td>
+            <td className="text-center">졸업</td>
           </tr>
           <tr>
-            <td className="font-semibold"></td>
-            <td>졸업</td>
-            <td className="text-center">2014년 3월 ~ 2017년 2월 </td>
-            <td></td>
+            <td>
+              <b>대련 이공대학부속고등학교</b>
+              <div>(大连理工大学附属高中)</div>
+            </td>
+            <td className="text-center">문과</td>
+            <td className="text-center">2013년 9월 ~ 2016년 8월 </td>
+            <td className="text-center">졸업</td>
           </tr>
           <tr>
-            <td className="font-semibold"></td>
-            <td>졸업</td>
-            <td className="text-center">2011년 3월 ~ 2014년 2월 </td>
-            <td></td>
+            <td>
+              <b>대련 육문중학교</b>
+              <div>(大连育文中学)</div>
+            </td>
+            <td className="text-center"></td>
+            <td className="text-center">2010년 9월 ~ 2013년 8월 </td>
+            <td className="text-center">졸업</td>
           </tr>
         </tbody>
       </table>
@@ -164,8 +172,7 @@ export default function Home() {
           </tr>
         </tbody>
       </table>
-      <div className="my-8" />
-      <h2 className="mb-8 break-before-page text-3xl">
+      <h2 className="my-8 break-before-page text-3xl">
         영업 경력 <span className="text-base">(2년 3개월)</span>
       </h2>
       <ul>
@@ -193,7 +200,7 @@ export default function Home() {
             <li>2. 다양한 매체(위챗, 우편, 문자, 전화 등)를 활용해 회사 상품을 전략적으로 판매함</li>
             <li>3. 고객에게 신속한 애프터서비스 제공 및 상담 지원</li>
             <li>4. 전반적인 매장 운영 및 관리 능력</li>
-            <li>5. 대리점 신입 사원의 체계적인 교육 담당함</li>
+            <li>5. 대리점 신입 사원의 체계적인 교육을 담당함</li>
           </ul>
         </li>
         <div className="my-6 w-full border" />
@@ -231,7 +238,7 @@ export default function Home() {
         </li>
       </ul>
       <h2 className="my-8 text-3xl ">소개</h2>
-      <h3 className="my-4 text-xl ">업무능력</h3>
+      <h3 className="my-4 text-xl ">업무 능력</h3>
       <ul className="grid gap-1">
         <li>- 회사의 다양한 내부 관리 업무에서의 풍부한 경험을 보유하며, 전반적인 업무 관리 능력을 갖추고 있습니다.</li>
         <li>- 구조적이고 체계적인 업무 접근으로 고객 및 팀원과의 협업을 효율적으로 수행합니다.</li>
@@ -251,7 +258,7 @@ export default function Home() {
         <li>- 화장품 관련 제품의 성분 및 효능에 대한 정보를 정확하게 전달합니다.</li>
         <li>- 팀과 협력하여 중국어를 사용하는 관광객에게도 효과적인 서비스를 제공합니다.</li>
       </ul>
-      <h3 className="my-4 text-xl ">컴퓨터/디자인 능력</h3>
+      <h3 className="my-4 text-xl ">컴퓨터·디자인 능력</h3>
       <ul className="grid gap-1">
         <li>- UI 설계에 대한 경험을 보유하며, 회사의 디지털 요구 사항을 효과적으로 지원합니다.</li>
         <li>- 디지털 홍보 자료 제작 능력을 활용하여 제품 또는 서비스의 홍보에 기여합니다.</li>

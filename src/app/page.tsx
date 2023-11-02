@@ -164,7 +164,8 @@ export default function Home() {
           </tr>
         </tbody>
       </table>
-      <h2 className="my-8 text-3xl">
+      <div className="my-8" />
+      <h2 className="mb-8 break-before-page text-3xl">
         영업 경력 <span className="text-base">(2년 3개월)</span>
       </h2>
       <ul>
@@ -256,6 +257,8 @@ export default function Home() {
         <li>- 디지털 홍보 자료 제작 능력을 활용하여 제품 또는 서비스의 홍보에 기여합니다.</li>
         <li>- 고객의 필요와 관심에 따라 제품을 친절하게 소개하고, 구매 결정까지 세심하게 안내합니다.</li>
       </ul>
+      <div className="mt-8 w-full text-center text-sm text-slate-800">작성일: {date}</div>
+      <div className="w-full text-center text-sm text-slate-800">작성자: 서신악</div>
     </main>
   )
 }

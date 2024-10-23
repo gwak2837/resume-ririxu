@@ -91,7 +91,7 @@ export default function Home() {
         고객의 불편함을 해결하는 제품을 판매하면서 고객의 목소리에 귀 기울여 비즈니스 문제를 해결하고, 제품을 판매하는
         도중 얻은 지식을 다른 사람과 공유하면서 영업의 존재 이유를 고민하는 <b>영업사원</b> 서신악입니다.
       </p>
-      <h2 className="my-8 break-before-page text-3xl">
+      <h2 className="my-8 text-3xl">
         영업 경력 <span className="text-base">(2년 10개월)</span>
       </h2>
       <ul>

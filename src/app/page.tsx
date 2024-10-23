@@ -109,9 +109,10 @@ export default function Home() {
             <div>2021년 11월 7일 ~ 2022년 11월 6일 (12개월)</div>
           </div>
           <div className="grid grid-cols-2 gap-4">
-            <div>직위: 점장 (정규직)</div>
-            <div>지점: 친구통신 중앙대점</div>
+            <div>직책: 영업 및 매장/고객 관리</div>
+            <div>부서: 친구통신 중앙대점</div>
           </div>
+          <div>직위: 점장 (정규직)</div>
           <div>역할:</div>
           <ul>
             <li>1. 고객과의 원활한 커뮤니케이션을 통해 매출 성장을 주도함</li>
@@ -131,9 +132,10 @@ export default function Home() {
             <div>2021년 1월 1일 ~ 10월 31일 (10개월)</div>
           </div>
           <div className="grid grid-cols-2 gap-4">
-            <div>직위: 점원 (정규직)</div>
-            <div>지점: 이니스프리 건대그린점</div>
+            <div>직책: 영업 및 제품 관리</div>
+            <div>부서: 이니스프리 건대그린점</div>
           </div>
+          <div>직위: 점원 (정규직)</div>
           <div>역할:</div>
           <ul>
             <li>1. 고객의 개인적인 스타일과 필요에 맞추어 제품을 자세히 소개하여 매출 증가에 기여함</li>
@@ -163,9 +165,10 @@ export default function Home() {
             <div>2020년 1월 1월 ~ 12월 31일 (12개월)</div>
           </div>
           <div className="grid grid-cols-2 gap-4">
-            <div>직위: 점원 (정규직)</div>
+            <div>직책: 영업 및 제품 관리</div>
             <div>지점: 지오지아 SSTS 명동점</div>
           </div>
+          <div>직위: 점원 (정규직)</div>
           <div>역할:</div>
           <ul>
             <li>
